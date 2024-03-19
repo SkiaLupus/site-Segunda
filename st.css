@@ -7,7 +7,7 @@ body {
 
 header {
     background-image: url('back2.png');
-    padding: 20px, 70px;
+    padding: 30px, 70px;
     text-align: center;
     animation: fadein 2s;
 }
